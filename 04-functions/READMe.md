@@ -12,5 +12,3 @@ During this Javascript learning journey, I plan on learning about following aspe
 
 ## Code Structure
 Every plan mentioned above, is available as a directory, containing an index.html file
-
-
